@@ -1,0 +1,7 @@
+C:\Users\Jasmin\Documents\WebbprogrammerareAK2\OOAD\YachtClub\YachtClub\YachtClub\bin\Debug\YachtClub.exe.config
+C:\Users\Jasmin\Documents\WebbprogrammerareAK2\OOAD\YachtClub\YachtClub\YachtClub\obj\Debug\YachtClub.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\WebbprogrammerareAK2\OOAD\YachtClub\YachtClub\YachtClub\bin\Debug\YachtClub.exe
+C:\Users\Jasmin\Documents\WebbprogrammerareAK2\OOAD\YachtClub\YachtClub\YachtClub\bin\Debug\YachtClub.pdb
+C:\Users\Jasmin\Documents\WebbprogrammerareAK2\OOAD\YachtClub\YachtClub\YachtClub\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jasmin\Documents\WebbprogrammerareAK2\OOAD\YachtClub\YachtClub\YachtClub\obj\Debug\YachtClub.exe
+C:\Users\Jasmin\Documents\WebbprogrammerareAK2\OOAD\YachtClub\YachtClub\YachtClub\obj\Debug\YachtClub.pdb
